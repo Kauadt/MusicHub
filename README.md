@@ -35,7 +35,7 @@ Atualmente, o armazenamento é feito **em memória**, o que torna o projeto simp
 2. **Compile e execute**
    ```bash
 
-   javac AppApp.java
+   javac App.java
    java App
 
   Ou execute o método ```main()``` diretamente pela IDE
