@@ -1,7 +1,11 @@
+package service;
+
+import model.Music;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class PlaylistController {
+public class PlaylistService {
 
     private final ArrayList<Music> playlist = new ArrayList<>();
     private final Scanner scanner = new Scanner(System.in);

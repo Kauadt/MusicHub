@@ -1,11 +1,15 @@
+import service.PlaylistService;
+
 import java.util.Scanner;
 
-public class Main {
+public class App {
 
-    private final static PlaylistController playlistControls = new PlaylistController();
+    private final static PlaylistService playlistControls = new PlaylistService();
     private final static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+
+
         scanner.useDelimiter("\\n");
 
         System.out.println("\nOlá, seja bem-vindo(a) ao Hub de músicas\n");

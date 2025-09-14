@@ -1,10 +1,11 @@
+package model;
+
 public class Music {
 
     private String name;
     private String url;
     private String author;
     private long id;
-
     private static long nextId = 1;
 
     public Music(){
