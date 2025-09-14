@@ -1,4 +1,4 @@
-# 🎵 model.Music Hub (Java CLI)
+# 🎵 Music Hub (Java CLI)
 
 Este é um projeto de linha de comando desenvolvido como parte da minha jornada de aprendizado em **Java back-end**. O sistema permite o gerenciamento de uma playlist de músicas com funcionalidades básicas de **CRUD** (Criar, Listar, Atualizar e Remover), utilizando estruturas de dados como `ArrayList` e conceitos de orientação a objetos.
 
